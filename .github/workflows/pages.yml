@@ -28,6 +28,10 @@ jobs:
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
+          enablement: true
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v3
+        with:
           path: .
       - name: Deploy
         id: deployment
