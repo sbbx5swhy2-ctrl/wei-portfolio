@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sbbx5swhy2-ctrl.github.io/wei-portfolio/sitemap.xml
