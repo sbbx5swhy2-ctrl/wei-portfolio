@@ -1,0 +1,16 @@
+{
+  "name": "anonymous-portfolio-system",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "verify": "node scripts/verify.mjs",
+    "stress": "node tests/stress.mjs",
+    "test": "npm run build && npm run verify && npm run stress",
+    "serve": "node scripts/serve.mjs"
+  }
+}
