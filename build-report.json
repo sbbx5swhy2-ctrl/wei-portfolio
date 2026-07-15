@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "buildId": "local-reproducible",
+  "fingerprint": "beab520caa5271df",
+  "basePath": "/wei-portfolio/",
+  "publishedProjects": 0,
+  "personalDataIncluded": false,
+  "projectAssetsIncluded": false,
+  "publicFiles": [
+    ".nojekyll",
+    "404.html",
+    "assets/app.js",
+    "assets/styles.css",
+    "index.html",
+    "manifest.webmanifest",
+    "robots.txt"
+  ]
+}

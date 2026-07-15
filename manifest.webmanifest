@@ -1,0 +1,8 @@
+{
+  "name": "Anonymous Portfolio System",
+  "short_name": "Portfolio",
+  "start_url": "/wei-portfolio/",
+  "display": "standalone",
+  "background_color": "#f1eee8",
+  "theme_color": "#f1eee8"
+}
