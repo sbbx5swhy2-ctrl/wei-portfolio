@@ -1,0 +1,36 @@
+{
+  "siteTitle": "Anonymous Portfolio System",
+  "pageTitle": "Anonymous Portfolio — Structure Before Claims",
+  "description": "A privacy-safe, content-driven portfolio framework awaiting approved case studies.",
+  "language": "en",
+  "allowIndexing": false,
+  "hero": {
+    "eyebrow": "ANONYMOUS PORTFOLIO / PUBLIC SHELL",
+    "status": "STRUCTURE ONLY",
+    "lines": ["MAKE THE", "LOGIC VISIBLE."],
+    "note": "A quiet framework for future case studies. No identity, contact data, or project assets are published in this version."
+  },
+  "statement": "A portfolio is not a gallery. It is an argument made visible.",
+  "method": [
+    {
+      "number": "01",
+      "name": "FRAME",
+      "description": "Separate the real question from its visible symptoms."
+    },
+    {
+      "number": "02",
+      "name": "SEQUENCE",
+      "description": "Turn information into hierarchy, rhythm, and a readable journey."
+    },
+    {
+      "number": "03",
+      "name": "PROTOTYPE",
+      "description": "Test comprehension and behavior before polishing surfaces."
+    },
+    {
+      "number": "04",
+      "name": "REFINE",
+      "description": "Remove every decision that cannot be explained or deliberately felt."
+    }
+  ]
+}
